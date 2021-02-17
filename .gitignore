@@ -1,0 +1,17 @@
+node_modules/
+dist/
+coverage/
+*.log
+test-report.*
+.idea/
+.DS_Store
+.settings/
+.project
+package-json.lock
+
+# confiurations
+staging.env
+staging.json
+
+production.env
+production.json
